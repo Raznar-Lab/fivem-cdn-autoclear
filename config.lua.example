@@ -1,5 +1,5 @@
 Config = {
-    url = "",
+    url = "https://cdn-fivem-api.raznar.net",
     uuid = "",
     key = ""
 }
